@@ -1,4 +1,0 @@
-DROP TABLE IF EXISTS idMgr;
-CREATE TABLE idMgr(
-cur_id		int(4294967295),
-sql		TEXT);

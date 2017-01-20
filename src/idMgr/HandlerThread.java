@@ -6,9 +6,6 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.Socket;
-import java.util.Iterator;
-import java.util.List;
-
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.Element;
@@ -71,7 +68,8 @@ public  class HandlerThread implements Runnable {
 			// TODO 自动生成的 catch 块
 			e.printStackTrace();
 		}	
-	}		
+	}
+	
 }
 
 
