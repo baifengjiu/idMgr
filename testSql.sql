@@ -1,0 +1,17 @@
+DROP TABLE IF EXISTS idMgr;CREATE TABLE idMgr(cur_id			INT(225),content			TEXT);
+insert into idMgr values(19999999,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000000,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000001,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000002,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000003,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000004,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000005,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000006,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000007,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000008,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000009,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000010,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000011,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000012,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000013,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");
+insert into idMgr values(20000014,"insert into t_jhk values('2','5','0','503','01','020302','金融工程');");

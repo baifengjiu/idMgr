@@ -6,7 +6,6 @@ import java.net.Socket;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-
 public class Server {
 	
 	public static void main(String[] args)  {  
